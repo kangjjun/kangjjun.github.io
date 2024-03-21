@@ -2,7 +2,7 @@
 title: A blog about lorem ipsum dolor sit amet
 description: A blog about lorem ipsum dolor sit amet
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
-"http://kangjjun.github.io"
+url: http://kangjjun.github.io
 
 # User settings
 username: Kang Developer
